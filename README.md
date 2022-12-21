@@ -1,3 +1,3 @@
 # guildedgenerator
 [+] Joiner inbuilt
-generate thousands of accounts in a matter of minutes
+#generate thousands of accounts in a matter of minutes
